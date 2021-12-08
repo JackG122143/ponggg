@@ -1,0 +1,28 @@
+{
+    "name": "PONGGG",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.blocks"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.7.22",
+        "tag": "v1.7.22",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/fa9cc16632907b4dd59f733b62e573beded922dc",
+        "target": "1.7.22",
+        "pxt": "7.3.23",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
